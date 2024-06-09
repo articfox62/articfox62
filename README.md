@@ -6,3 +6,6 @@
   [dni and byi](https://github.com/articfox62/dni-byi)
 
 <p align="center"> <img width="1000" src="https://64.media.tumblr.com/c537725480c79aa443fe84cd77e50556/62b1ff3c81ee6a21-3c/s1280x1920/8e3c7dfac3c9d2641fa4a36749ac94e5b82a1773.pnj">
+<div align="center"> 
+
+Credits to [my sister](https://github.com/rea1m-of-ap4thy) who typed and made this
